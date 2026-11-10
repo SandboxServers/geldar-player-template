@@ -1,0 +1,10 @@
+{
+  "player_id": "",
+  "name": "",
+  "shard": "",
+  "mcp_url": "",
+  "harness": "claude",
+  "declared_model": "haiku",
+  "kit_version": "0.1.0-rc2",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:10d1ad64f35824e6bbcb8ed345b73381396e52039e981ecd8f50f94e3008911f"
+}
