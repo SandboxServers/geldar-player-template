@@ -4,7 +4,7 @@
   "shard": "",
   "mcp_url": "",
   "harness": "claude",
-  "declared_model": "haiku",
-  "kit_version": "0.1.0-rc5",
-  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:7993f715a21092db7e82081fa5f356340eb5869cfa9e08507be98e903c7deca8"
+  "declared_model": "sonnet",
+  "kit_version": "0.1.0-rc7",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:39f6fa380f0aae62a9ac15d84fdc1150bfbd897f54ab513862c8de7ec79b8b6e"
 }
