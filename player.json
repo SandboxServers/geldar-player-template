@@ -5,6 +5,6 @@
   "mcp_url": "",
   "harness": "claude",
   "declared_model": "haiku",
-  "kit_version": "0.1.0-rc20",
-  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:314f4a50a71bb16646aba2dd39c293dfd0e59901cc47362ce4526c87d0eeb216"
+  "kit_version": "0.1.0-rc21",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:6dcbe0bb1e7bcb60ff9ea489f3c20574e401538468a911199a8d7d99a6aaa7f2"
 }
